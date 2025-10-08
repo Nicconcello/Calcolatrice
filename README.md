@@ -1,2 +1,2 @@
 # Calcolatrice
-Modello 3D di una calcolatrice
+Modello 2D di una calcolatrice
